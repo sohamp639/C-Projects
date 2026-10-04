@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
+    cout<<"My first Project"<<endl;
     cout<<"-----CALCULATOR-----"<<endl;
       char d='Y';
       while(d=='Y'|| d=='y'){
